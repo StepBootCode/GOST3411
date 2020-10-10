@@ -1,0 +1,1 @@
+start GOST3411.exe /t2
